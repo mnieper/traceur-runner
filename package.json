@@ -32,7 +32,7 @@
     "jscs": "^1.8.1",
     "jshint": "^2.5.10",
     "mocha": "1.21.4",
-    "traceur": "0.0.79"
+    "traceur": "git://github.com/google/traceur-compiler.git"
   },
   "_dependencyComments": {
     "mocha": "keeping at 1.21.4 until https://github.com/mochajs/mocha/issues/1241 is fixed"
